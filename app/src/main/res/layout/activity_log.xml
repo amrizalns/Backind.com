@@ -103,7 +103,12 @@
             android:background="#000000"
         />
 
+<<<<<<< HEAD
 
     </ScrollView>
+=======
+                </LinearLayout>
+        </ScrollView>
+>>>>>>> origin/master
 
 </RelativeLayout>

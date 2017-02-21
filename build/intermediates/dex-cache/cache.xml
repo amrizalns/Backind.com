@@ -2,6 +2,15 @@
 <items version="2" >
 
     <item
+        is-multidex="true"
+        jar="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85da0e2464be4fc35030addb028c42fc94aaaab3">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_459b20968d3cfbb220bc3fe6f0506ecd6b735d4f/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/Users/amrizalns/Documents/Capstone-Backind.com/Backind/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
         jumboMode="false"
@@ -18,6 +27,33 @@
         revision="25.0.2"
         sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
         <dex dex="/Users/amrizalns/Documents/Capstone-Backind.com/Backind/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_e3ccdd2fbcb71ea9a3b10577fc80e5a183dc8075.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_5a981de1da083c23f3910bd1469754a4700b78e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_af73d94cfd40ca089d0fee424136e60964136234/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_3db01db49363b6c1582ea10d783edd547ecad921/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -38,6 +74,15 @@
         <dex dex="/Users/amrizalns/Documents/Capstone-Backind.com/Backind/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_3a5960c670bb5bb92a73ea8b4e26e7add5453f26.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/Users/amrizalns/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_3a5960c670bb5bb92a73ea8b4e26e7add5453f26/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/Users/amrizalns/Documents/Capstone-Backind.com/Backind/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
         jumboMode="false"
@@ -47,6 +92,15 @@
         <dex dex="/Users/amrizalns/Documents/Capstone-Backind.com/Backind/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_5c8fec2f893b146035776b3dd7014a291d63e91d.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_3b56ee5f9e8a2a3b38bde5fc5f997ea6f02f779c/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/Users/amrizalns/Documents/Capstone-Backind.com/Backind/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
         jumboMode="false"
@@ -54,6 +108,15 @@
         revision="25.0.2"
         sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
         <dex dex="/Users/amrizalns/Documents/Capstone-Backind.com/Backind/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_7605a858d12bd60552319b1f8a1c461194097092.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_ee78a1ffc27fa02f907a04409464d4203128376b/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -74,6 +137,24 @@
         <dex dex="/Users/amrizalns/Documents/Capstone-Backind.com/Backind/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_3a1d56a5a4728e1ab8f28d2db3975c0ba3d76476.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_110430387a4f7d316d2e3ec03b6ba41289b71507/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_60b7d34697f4bbee2b89562703bb1e854d389a0f/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/Users/amrizalns/Documents/Capstone-Backind.com/Backind/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
         jumboMode="false"
@@ -83,6 +164,15 @@
         <dex dex="/Users/amrizalns/Documents/Capstone-Backind.com/Backind/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_337bebcc37df2290aff7ce5e46f63f903d75a3eb.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_4720240eef5b90e05e7de63bd7c9d496d40f267a/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/Users/amrizalns/Documents/Capstone-Backind.com/Backind/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
         jumboMode="false"
@@ -90,6 +180,51 @@
         revision="25.0.2"
         sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
         <dex dex="/Users/amrizalns/Documents/Capstone-Backind.com/Backind/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_32c3fb28c64fff0fc0c716302673b694a0bee9ce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_835b12b7ede6e073d6c18b82f6052951f8620a72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_616628b5ae72e08f3c11bb0724a5486238716a73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_6d93972f0566711282b0aaa0cba77a2fd47fa2fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4ce167b3c8396fbcaf4d9da7296cd9022a8a9cc">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7a61eb24248dbc21f22674ebf364e0bb0fc7ff65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_703bbcd9e678aa3564fcbda64c45b9fde52b0b87/classes.dex" />
     </item>
     <item
         is-multidex="false"
