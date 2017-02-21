@@ -28,6 +28,8 @@
         </activity>
         <activity android:name=".LogActivity">
         </activity>
+        <activity android:name=".TempatWisataActivity">
+        </activity>
     </application>
 
 </manifest>
