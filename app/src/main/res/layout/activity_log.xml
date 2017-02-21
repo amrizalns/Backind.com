@@ -8,7 +8,7 @@
     android:background="@drawable/gradient_color"
     android:gravity="center_horizontal"
     android:orientation="vertical"
-    tools:context="com.example.amrizalns.backind.LoginActivity">
+    tools:context="com.example.amrizalns.backind.SignUpActivity">
 
     <ProgressBar
         android:id="@+id/login_progress"
