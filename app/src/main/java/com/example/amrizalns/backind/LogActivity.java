@@ -10,6 +10,6 @@ public class LogActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_log);
 
-        //coba commit tania tetetet
+
     }
 }
