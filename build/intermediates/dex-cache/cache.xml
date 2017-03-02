@@ -30,21 +30,66 @@
     </item>
     <item
         is-multidex="false"
-        jar="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_3d79e8f72958b2582f904f1b328108cfbb22d859.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
         <dex dex="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_24341b597e901f9e82c5e2efa1b27d216eef4346.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_75629049566391aee36ecd1f3632944b0e174f86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_126c0124db61a60b22f5ca9d222ffe819a1971e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_5327e427c93bdfb959364c5d9871154698c55e8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_a07a4dd5d7b4ef2ce124a2a3b6c6da0956e93878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tania Almira\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_b5fc3bc24f0af810254bc672e887d3505e679ed4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_3d79e8f72958b2582f904f1b328108cfbb22d859.jar" />
     </item>
     <item
         is-multidex="false"
@@ -66,15 +111,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_75629049566391aee36ecd1f3632944b0e174f86.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -90,24 +126,6 @@
         revision="25.0.2"
         sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
         <dex dex="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_70d81e4cc349bd6b75905f2556972ea5989a9ca0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_126c0124db61a60b22f5ca9d222ffe819a1971e0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_5327e427c93bdfb959364c5d9871154698c55e8c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -144,24 +162,6 @@
         revision="25.0.2"
         sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
         <dex dex="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_3e7ecc8fc626b4f4897a9d39c81f099868ee24a6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8a372c4191f80489770a231f7be4820b204b886a">
-        <dex dex="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_a07a4dd5d7b4ef2ce124a2a3b6c6da0956e93878.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Tania Almira\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
-        <dex dex="E:\Android Project\Backind.com\Backind.com\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_b5fc3bc24f0af810254bc672e887d3505e679ed4.jar" />
     </item>
 
 </items>
