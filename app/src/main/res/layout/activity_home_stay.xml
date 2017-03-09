@@ -19,6 +19,5 @@
         android:text="HoMeStay"
         android:textSize="32sp"
         android:textColor="@android:color/holo_blue_dark"
-        
         />
 </RelativeLayout>
