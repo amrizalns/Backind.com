@@ -1,22 +1,12 @@
 <component name="libraryTable">
   <library name="support-core-utils-25.1.1">
     <CLASSES>
-<<<<<<< HEAD
-      <root url="file://$USER_HOME$/.android/build-cache/47a3b7d137c7978791cb2daa8d3cdef04aefdf2c/output/res" />
-      <root url="jar://$USER_HOME$/.android/build-cache/47a3b7d137c7978791cb2daa8d3cdef04aefdf2c/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/2c022e4e5ebde89a1dfb64da63eb9ea27571a64c/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/2c022e4e5ebde89a1dfb64da63eb9ea27571a64c/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/support-core-utils/25.1.1/support-core-utils-25.1.1-sources.jar!/" />
-=======
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/res" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES>
-      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/support-core-utils/25.1.1/support-core-utils-25.1.1-sources.jar!/" />
       <root url="jar://C:/Android/sdk/extras/android/m2repository/com/android/support/support-core-utils/25.1.1/support-core-utils-25.1.1-sources.jar!/" />
->>>>>>> origin/master
     </SOURCES>
   </library>
 </component>
