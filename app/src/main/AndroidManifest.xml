@@ -28,15 +28,23 @@
         <activity android:name=".LogActivity"></activity>
         <activity android:name=".TempatWisataActivity"></activity>
 
+
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
             android:value="@string/facebook_app_id" />
-        //coba commit tania
+
+        <activity android:name="com.facebook.FacebookActivity"
+                  android:configChanges=
+                      "keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+                  android:theme="@android:style/Theme.Translucent.NoTitleBar"
+                  android:label="@string/app_name" />
+
         <activity android:name=".HomeStayActivity"></activity>
         <activity
             android:name=".main_interface"
             android:label="@string/title_activity_main_interface"
             android:theme="@style/Theme.AppCompat.NoActionBar"></activity>
+
     </application>
 
 </manifest>

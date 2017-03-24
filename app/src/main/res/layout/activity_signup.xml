@@ -27,8 +27,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
-            android:paddingTop="30dp"
-            >
+            android:paddingTop="30dp"/>
+
 
             <ImageView
                 android:layout_marginTop="@dimen/activity_vertical_margin"
@@ -103,8 +103,18 @@
                 android:layout_marginRight="50dp"
                 />
 
-            <Button
-                android:id="@+id/facebook"
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/info"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:textSize="18sp"
+            />
+
+
+            <com.facebook.login.widget.LoginButton
+                android:id="@+id/login_button"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginLeft="50dp"
@@ -160,15 +170,6 @@
                     android:textSize="6.5pt"
                     android:textColor="@color/gplus"
                     />
-
-                <com.facebook.login.widget.LoginButton
-                android:id="@+id/login_button"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"
-                android:layout_marginTop="30dp"
-                android:layout_marginBottom="30dp" />
-            </LinearLayout>
 
         </LinearLayout>
     </ScrollView>
