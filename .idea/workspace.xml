@@ -6,45 +6,14 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbc41c82-c526-4e8f-b657-f25d7f2acbb7" name="Default" comment="upload API facebook">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/design_25_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_25_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_25_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_compat_25_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_25_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/transition_25_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-03-21-08-56-13-839.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-03-21-09-03-44-527.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-03-21-09-03-50-611.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" afterPath="" />
+    <list default="true" id="dbc41c82-c526-4e8f-b657-f25d7f2acbb7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/cardview_v7_25_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/cardview_v7_25_0_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/constraint_layout_1_0_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/constraint_layout_1_0_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/customtabs_25_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/customtabs_25_0_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/facebook_android_sdk_4_20_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/facebook_android_sdk_4_20_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/library_aar_1_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/library_aar_1_0_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/amrizalns/backind/SignUpActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/amrizalns/backind/SignUpActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_signup.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_signup.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
     </list>
     <ignored path="Backind.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -88,21 +57,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SignUpActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SignUpActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/amrizalns/backind/SignUpActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="136" column="33" selection-start-line="136" selection-start-column="33" selection-end-line="136" selection-end-column="33" />
+            <state relative-caret-position="164">
+              <caret line="307" column="29" selection-start-line="307" selection-start-column="29" selection-end-line="307" selection-end-column="29" />
               <folding>
-                <element signature="e#4370#4371#0" expanded="true" />
-                <element signature="e#4441#4442#0" expanded="true" />
-                <element signature="e#4519#4520#0" expanded="true" />
-                <element signature="e#4588#4589#0" expanded="true" />
-                <element signature="e#5342#5371#0" expanded="true" />
-                <element signature="e#7256#7298#0" expanded="true" />
-                <element signature="e#7494#7534#0" expanded="true" />
-                <element signature="e#7675#7714#0" expanded="true" />
-                <element signature="e#13647#13691#0" expanded="true" />
+                <element signature="e#4436#4437#0" expanded="true" />
+                <element signature="e#4507#4508#0" expanded="true" />
+                <element signature="e#4585#4586#0" expanded="true" />
+                <element signature="e#4654#4655#0" expanded="true" />
+                <element signature="e#5396#5425#0" expanded="true" />
+                <element signature="e#7310#7352#0" expanded="true" />
+                <element signature="e#7548#7588#0" expanded="true" />
+                <element signature="e#7729#7768#0" expanded="true" />
+                <element signature="e#13701#13745#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -182,17 +151,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider editor-type-id="android-manifest">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="80">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding>
                 <element signature="e#1444#1469#0" expanded="true" />
-                <element signature="e#1772#1790#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2071,8 +2039,8 @@
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_home_stay.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_signup.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/amrizalns/backind/SignUpActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/amrizalns/backind/SignUpActivity.java" />
       </list>
     </option>
   </component>
@@ -2559,6 +2527,14 @@
       <option name="presentableId" value="Default" />
       <updated>1490084629327</updated>
     </task>
+    <task id="LOCAL-00001" summary="upload API facebook">
+      <created>1490336475488</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1490336475488</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2676,15 +2652,15 @@
         <state relative-caret-position="1683">
           <caret line="99" column="19" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="19" />
           <folding>
-            <element signature="e#4370#4371#0" expanded="true" />
-            <element signature="e#4441#4442#0" expanded="true" />
-            <element signature="e#4519#4520#0" expanded="true" />
-            <element signature="e#4588#4589#0" expanded="true" />
-            <element signature="e#5342#5371#0" expanded="true" />
-            <element signature="e#7256#7298#0" expanded="true" />
-            <element signature="e#7494#7534#0" expanded="true" />
-            <element signature="e#7675#7714#0" expanded="true" />
-            <element signature="e#13647#13691#0" expanded="true" />
+            <element signature="e#4436#4437#0" expanded="true" />
+            <element signature="e#4507#4508#0" expanded="true" />
+            <element signature="e#4585#4586#0" expanded="true" />
+            <element signature="e#4654#4655#0" expanded="true" />
+            <element signature="e#5396#5425#0" expanded="true" />
+            <element signature="e#7310#7352#0" expanded="true" />
+            <element signature="e#7548#7588#0" expanded="true" />
+            <element signature="e#7729#7768#0" expanded="true" />
+            <element signature="e#13701#13745#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2703,7 +2679,6 @@
           <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
           <folding>
             <element signature="e#1444#1469#0" expanded="true" />
-            <element signature="e#1772#1790#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2721,15 +2696,15 @@
         <state relative-caret-position="1683">
           <caret line="99" column="19" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="19" />
           <folding>
-            <element signature="e#4370#4371#0" expanded="true" />
-            <element signature="e#4441#4442#0" expanded="true" />
-            <element signature="e#4519#4520#0" expanded="true" />
-            <element signature="e#4588#4589#0" expanded="true" />
-            <element signature="e#5342#5371#0" expanded="true" />
-            <element signature="e#7256#7298#0" expanded="true" />
-            <element signature="e#7494#7534#0" expanded="true" />
-            <element signature="e#7675#7714#0" expanded="true" />
-            <element signature="e#13647#13691#0" expanded="true" />
+            <element signature="e#4436#4437#0" expanded="true" />
+            <element signature="e#4507#4508#0" expanded="true" />
+            <element signature="e#4585#4586#0" expanded="true" />
+            <element signature="e#4654#4655#0" expanded="true" />
+            <element signature="e#5396#5425#0" expanded="true" />
+            <element signature="e#7310#7352#0" expanded="true" />
+            <element signature="e#7548#7588#0" expanded="true" />
+            <element signature="e#7729#7768#0" expanded="true" />
+            <element signature="e#13701#13745#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2748,7 +2723,6 @@
           <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
           <folding>
             <element signature="e#1444#1469#0" expanded="true" />
-            <element signature="e#1772#1790#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2766,15 +2740,15 @@
         <state relative-caret-position="1683">
           <caret line="99" column="19" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="19" />
           <folding>
-            <element signature="e#4370#4371#0" expanded="true" />
-            <element signature="e#4441#4442#0" expanded="true" />
-            <element signature="e#4519#4520#0" expanded="true" />
-            <element signature="e#4588#4589#0" expanded="true" />
-            <element signature="e#5342#5371#0" expanded="true" />
-            <element signature="e#7256#7298#0" expanded="true" />
-            <element signature="e#7494#7534#0" expanded="true" />
-            <element signature="e#7675#7714#0" expanded="true" />
-            <element signature="e#13647#13691#0" expanded="true" />
+            <element signature="e#4436#4437#0" expanded="true" />
+            <element signature="e#4507#4508#0" expanded="true" />
+            <element signature="e#4585#4586#0" expanded="true" />
+            <element signature="e#4654#4655#0" expanded="true" />
+            <element signature="e#5396#5425#0" expanded="true" />
+            <element signature="e#7310#7352#0" expanded="true" />
+            <element signature="e#7548#7588#0" expanded="true" />
+            <element signature="e#7729#7768#0" expanded="true" />
+            <element signature="e#13701#13745#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2793,7 +2767,6 @@
           <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
           <folding>
             <element signature="e#1444#1469#0" expanded="true" />
-            <element signature="e#1772#1790#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2811,15 +2784,15 @@
         <state relative-caret-position="1683">
           <caret line="99" column="19" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="19" />
           <folding>
-            <element signature="e#4370#4371#0" expanded="true" />
-            <element signature="e#4441#4442#0" expanded="true" />
-            <element signature="e#4519#4520#0" expanded="true" />
-            <element signature="e#4588#4589#0" expanded="true" />
-            <element signature="e#5342#5371#0" expanded="true" />
-            <element signature="e#7256#7298#0" expanded="true" />
-            <element signature="e#7494#7534#0" expanded="true" />
-            <element signature="e#7675#7714#0" expanded="true" />
-            <element signature="e#13647#13691#0" expanded="true" />
+            <element signature="e#4436#4437#0" expanded="true" />
+            <element signature="e#4507#4508#0" expanded="true" />
+            <element signature="e#4585#4586#0" expanded="true" />
+            <element signature="e#4654#4655#0" expanded="true" />
+            <element signature="e#5396#5425#0" expanded="true" />
+            <element signature="e#7310#7352#0" expanded="true" />
+            <element signature="e#7548#7588#0" expanded="true" />
+            <element signature="e#7729#7768#0" expanded="true" />
+            <element signature="e#13701#13745#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2838,7 +2811,6 @@
           <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
           <folding>
             <element signature="e#1444#1469#0" expanded="true" />
-            <element signature="e#1772#1790#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2856,15 +2828,15 @@
         <state relative-caret-position="1683">
           <caret line="99" column="19" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="19" />
           <folding>
-            <element signature="e#4370#4371#0" expanded="true" />
-            <element signature="e#4441#4442#0" expanded="true" />
-            <element signature="e#4519#4520#0" expanded="true" />
-            <element signature="e#4588#4589#0" expanded="true" />
-            <element signature="e#5342#5371#0" expanded="true" />
-            <element signature="e#7256#7298#0" expanded="true" />
-            <element signature="e#7494#7534#0" expanded="true" />
-            <element signature="e#7675#7714#0" expanded="true" />
-            <element signature="e#13647#13691#0" expanded="true" />
+            <element signature="e#4436#4437#0" expanded="true" />
+            <element signature="e#4507#4508#0" expanded="true" />
+            <element signature="e#4585#4586#0" expanded="true" />
+            <element signature="e#4654#4655#0" expanded="true" />
+            <element signature="e#5396#5425#0" expanded="true" />
+            <element signature="e#7310#7352#0" expanded="true" />
+            <element signature="e#7548#7588#0" expanded="true" />
+            <element signature="e#7729#7768#0" expanded="true" />
+            <element signature="e#13701#13745#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2883,7 +2855,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#1444#1469#0" expanded="true" />
-            <element signature="e#1772#1790#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2901,15 +2872,15 @@
         <state relative-caret-position="1683">
           <caret line="99" column="19" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="19" />
           <folding>
-            <element signature="e#4370#4371#0" expanded="true" />
-            <element signature="e#4441#4442#0" expanded="true" />
-            <element signature="e#4519#4520#0" expanded="true" />
-            <element signature="e#4588#4589#0" expanded="true" />
-            <element signature="e#5342#5371#0" expanded="true" />
-            <element signature="e#7256#7298#0" expanded="true" />
-            <element signature="e#7494#7534#0" expanded="true" />
-            <element signature="e#7675#7714#0" expanded="true" />
-            <element signature="e#13647#13691#0" expanded="true" />
+            <element signature="e#4436#4437#0" expanded="true" />
+            <element signature="e#4507#4508#0" expanded="true" />
+            <element signature="e#4585#4586#0" expanded="true" />
+            <element signature="e#4654#4655#0" expanded="true" />
+            <element signature="e#5396#5425#0" expanded="true" />
+            <element signature="e#7310#7352#0" expanded="true" />
+            <element signature="e#7548#7588#0" expanded="true" />
+            <element signature="e#7729#7768#0" expanded="true" />
+            <element signature="e#13701#13745#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2928,7 +2899,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#1444#1469#0" expanded="true" />
-            <element signature="e#1772#1790#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2946,15 +2916,15 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4370#4371#0" expanded="true" />
-            <element signature="e#4441#4442#0" expanded="true" />
-            <element signature="e#4519#4520#0" expanded="true" />
-            <element signature="e#4588#4589#0" expanded="true" />
-            <element signature="e#5342#5371#0" expanded="true" />
-            <element signature="e#7256#7298#0" expanded="true" />
-            <element signature="e#7494#7534#0" expanded="true" />
-            <element signature="e#7675#7714#0" expanded="true" />
-            <element signature="e#13647#13691#0" expanded="true" />
+            <element signature="e#4436#4437#0" expanded="true" />
+            <element signature="e#4507#4508#0" expanded="true" />
+            <element signature="e#4585#4586#0" expanded="true" />
+            <element signature="e#4654#4655#0" expanded="true" />
+            <element signature="e#5396#5425#0" expanded="true" />
+            <element signature="e#7310#7352#0" expanded="true" />
+            <element signature="e#7548#7588#0" expanded="true" />
+            <element signature="e#7729#7768#0" expanded="true" />
+            <element signature="e#13701#13745#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2972,15 +2942,15 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4370#4371#0" expanded="true" />
-            <element signature="e#4441#4442#0" expanded="true" />
-            <element signature="e#4519#4520#0" expanded="true" />
-            <element signature="e#4588#4589#0" expanded="true" />
-            <element signature="e#5342#5371#0" expanded="true" />
-            <element signature="e#7256#7298#0" expanded="true" />
-            <element signature="e#7494#7534#0" expanded="true" />
-            <element signature="e#7675#7714#0" expanded="true" />
-            <element signature="e#13647#13691#0" expanded="true" />
+            <element signature="e#4436#4437#0" expanded="true" />
+            <element signature="e#4507#4508#0" expanded="true" />
+            <element signature="e#4585#4586#0" expanded="true" />
+            <element signature="e#4654#4655#0" expanded="true" />
+            <element signature="e#5396#5425#0" expanded="true" />
+            <element signature="e#7310#7352#0" expanded="true" />
+            <element signature="e#7548#7588#0" expanded="true" />
+            <element signature="e#7729#7768#0" expanded="true" />
+            <element signature="e#13701#13745#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2998,15 +2968,15 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4370#4371#0" expanded="true" />
-            <element signature="e#4441#4442#0" expanded="true" />
-            <element signature="e#4519#4520#0" expanded="true" />
-            <element signature="e#4588#4589#0" expanded="true" />
-            <element signature="e#5342#5371#0" expanded="true" />
-            <element signature="e#7256#7298#0" expanded="true" />
-            <element signature="e#7494#7534#0" expanded="true" />
-            <element signature="e#7675#7714#0" expanded="true" />
-            <element signature="e#13647#13691#0" expanded="true" />
+            <element signature="e#4436#4437#0" expanded="true" />
+            <element signature="e#4507#4508#0" expanded="true" />
+            <element signature="e#4585#4586#0" expanded="true" />
+            <element signature="e#4654#4655#0" expanded="true" />
+            <element signature="e#5396#5425#0" expanded="true" />
+            <element signature="e#7310#7352#0" expanded="true" />
+            <element signature="e#7548#7588#0" expanded="true" />
+            <element signature="e#7729#7768#0" expanded="true" />
+            <element signature="e#13701#13745#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3024,15 +2994,15 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4370#4371#0" expanded="true" />
-            <element signature="e#4441#4442#0" expanded="true" />
-            <element signature="e#4519#4520#0" expanded="true" />
-            <element signature="e#4588#4589#0" expanded="true" />
-            <element signature="e#5342#5371#0" expanded="true" />
-            <element signature="e#7256#7298#0" expanded="true" />
-            <element signature="e#7494#7534#0" expanded="true" />
-            <element signature="e#7675#7714#0" expanded="true" />
-            <element signature="e#13647#13691#0" expanded="true" />
+            <element signature="e#4436#4437#0" expanded="true" />
+            <element signature="e#4507#4508#0" expanded="true" />
+            <element signature="e#4585#4586#0" expanded="true" />
+            <element signature="e#4654#4655#0" expanded="true" />
+            <element signature="e#5396#5425#0" expanded="true" />
+            <element signature="e#7310#7352#0" expanded="true" />
+            <element signature="e#7548#7588#0" expanded="true" />
+            <element signature="e#7729#7768#0" expanded="true" />
+            <element signature="e#13701#13745#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3050,15 +3020,15 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4370#4371#0" expanded="true" />
-            <element signature="e#4441#4442#0" expanded="true" />
-            <element signature="e#4519#4520#0" expanded="true" />
-            <element signature="e#4588#4589#0" expanded="true" />
-            <element signature="e#5342#5371#0" expanded="true" />
-            <element signature="e#7256#7298#0" expanded="true" />
-            <element signature="e#7494#7534#0" expanded="true" />
-            <element signature="e#7675#7714#0" expanded="true" />
-            <element signature="e#13647#13691#0" expanded="true" />
+            <element signature="e#4436#4437#0" expanded="true" />
+            <element signature="e#4507#4508#0" expanded="true" />
+            <element signature="e#4585#4586#0" expanded="true" />
+            <element signature="e#4654#4655#0" expanded="true" />
+            <element signature="e#5396#5425#0" expanded="true" />
+            <element signature="e#7310#7352#0" expanded="true" />
+            <element signature="e#7548#7588#0" expanded="true" />
+            <element signature="e#7729#7768#0" expanded="true" />
+            <element signature="e#13701#13745#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3076,15 +3046,15 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4370#4371#0" expanded="true" />
-            <element signature="e#4441#4442#0" expanded="true" />
-            <element signature="e#4519#4520#0" expanded="true" />
-            <element signature="e#4588#4589#0" expanded="true" />
-            <element signature="e#5342#5371#0" expanded="true" />
-            <element signature="e#7256#7298#0" expanded="true" />
-            <element signature="e#7494#7534#0" expanded="true" />
-            <element signature="e#7675#7714#0" expanded="true" />
-            <element signature="e#13647#13691#0" expanded="true" />
+            <element signature="e#4436#4437#0" expanded="true" />
+            <element signature="e#4507#4508#0" expanded="true" />
+            <element signature="e#4585#4586#0" expanded="true" />
+            <element signature="e#4654#4655#0" expanded="true" />
+            <element signature="e#5396#5425#0" expanded="true" />
+            <element signature="e#7310#7352#0" expanded="true" />
+            <element signature="e#7548#7588#0" expanded="true" />
+            <element signature="e#7729#7768#0" expanded="true" />
+            <element signature="e#13701#13745#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3147,24 +3117,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/amrizalns/backind/SignUpActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="136" column="33" selection-start-line="136" selection-start-column="33" selection-end-line="136" selection-end-column="33" />
-          <folding>
-            <element signature="e#4370#4371#0" expanded="true" />
-            <element signature="e#4441#4442#0" expanded="true" />
-            <element signature="e#4519#4520#0" expanded="true" />
-            <element signature="e#4588#4589#0" expanded="true" />
-            <element signature="e#5342#5371#0" expanded="true" />
-            <element signature="e#7256#7298#0" expanded="true" />
-            <element signature="e#7494#7534#0" expanded="true" />
-            <element signature="e#7675#7714#0" expanded="true" />
-            <element signature="e#13647#13691#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_booking_homestay.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -3197,11 +3149,28 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="80">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
             <element signature="e#1444#1469#0" expanded="true" />
-            <element signature="e#1772#1790#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/amrizalns/backind/SignUpActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="307" column="29" selection-start-line="307" selection-start-column="29" selection-end-line="307" selection-end-column="29" />
+          <folding>
+            <element signature="e#4436#4437#0" expanded="true" />
+            <element signature="e#4507#4508#0" expanded="true" />
+            <element signature="e#4585#4586#0" expanded="true" />
+            <element signature="e#4654#4655#0" expanded="true" />
+            <element signature="e#5396#5425#0" expanded="true" />
+            <element signature="e#7310#7352#0" expanded="true" />
+            <element signature="e#7548#7588#0" expanded="true" />
+            <element signature="e#7729#7768#0" expanded="true" />
+            <element signature="e#13701#13745#0" expanded="true" />
           </folding>
         </state>
       </provider>

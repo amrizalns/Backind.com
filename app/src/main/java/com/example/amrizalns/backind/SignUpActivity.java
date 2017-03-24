@@ -3,6 +3,7 @@ package com.example.amrizalns.backind;
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
 import android.annotation.TargetApi;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.support.annotation.NonNull;
 import android.support.design.widget.Snackbar;
@@ -33,6 +34,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import static android.Manifest.permission.READ_CONTACTS;
+import static android.R.attr.data;
 
 import com.facebook.CallbackManager;
 import com.facebook.FacebookCallback;
@@ -132,13 +134,13 @@ public class SignUpActivity extends AppCompatActivity implements LoaderCallbacks
                 info.setText("Login attempt failed.");
             }
         });
-
-        @Override
-        protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-            callbackManager.onActivityResult(requestCode, resultCode, data);
         }
-    }
 
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        callbackManager.onActivityResult(requestCode, resultCode, data);
+    }
 
 
     private void populateAutoComplete() {
