@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="864a85e6a4dc06b241da278b6dbace2541528994">
+        sha1="deaae1fadb203181553d7d822edbcdddfd29379c">
         <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_459b20968d3cfbb220bc3fe6f0506ecd6b735d4f/classes.dex" />
     </item>
     <item
@@ -21,39 +21,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/amrizalns/.android/build-cache/dc825b3adf57bafc160ee1be665cd5aff25b40be/output/jars/classes.jar"
+        jar="/Users/amrizalns/.android/build-cache/98f8695d8b102af1ddff42fa7ee023bc3805d123/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="cb2ef781533c3f11c4e80341cbaebad275c66586">
-        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4efafd3985c97bb5321ab61373567c63c9be003d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/amrizalns/.android/build-cache/21127b155f0dc98ba3f267e6e2521549c8d1b4d3/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_03a9cbb9e1242f0e6bb5bd6ea568fd9f7ba68df2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/amrizalns/.android/build-cache/5ace077bd3f9de5328917dac7541cbac2703f6c8/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d87b54a90b0120b66aada8185a1cf0baa3037f5a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/amrizalns/.android/build-cache/f3e5c4a4239d4ccb636710e79ab8d16362d9e589/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b96ff33c3388ba80e63354e69ba80904d0646f26/classes.dex" />
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68a6a7886d39b05b8a7846409bc0b7fc7d3c29ca/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,12 +39,120 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/amrizalns/.android/build-cache/cc673511da5b45982769d38aa316ab5795ff5d7b/output/jars/classes.jar"
+        jar="/Users/amrizalns/.android/build-cache/421e3efd80b236670a861767710197dee0080759/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_752a231b53361ba89389ccca83342e43f3370659/classes.dex" />
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ac6f99ee10680dd17d1133b61b299fb17b277bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/.android/build-cache/c551c619266affb8247b0524c8b9f9dd721230f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b176635a1fec42e81415e7fb2f0d74da5c85a5a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/.android/build-cache/fe4f11a8b6eca6e99ada32fd7aca50f1d090870b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59dbf99b65c358fef1b2f230cd0c99740e0e8466/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/.android/build-cache/ead5003bf3dba55a5312fc76dd63959303c4da08/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f64137b5529e1b2da8701f1402630c29e00cf9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/.android/build-cache/e647d2783f9402de72e57d1927ecdff197cfa6e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e64890e0c8ed0d298eef73fc08888d782bcb683f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/.android/build-cache/906c3563b1b977e332a91a894f76080da5b0c55f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd328384e9c6c103e34b730023e3e5ac1b598f60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/.android/build-cache/5bd5d72c08c2105d0c05dbb7e911082e5317d7d0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a98670692a4e6ae4b19fc3c94ed249f38d1c0f41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/.android/build-cache/d6f2249d7df59d6f59c1da66e55f677c3cdc7398/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_64fdc633ed13ba1979dcfd27884f50ea847238a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/.android/build-cache/74058315b5610ffc0453a41c08c7702cdb96a407/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e1166d3dc0c07bbedda4f4ab126d219f62dba74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/.android/build-cache/670346ed663dda739890e84fdffa5fe21374fc81/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6717208ba529e51953715e71bf484cf7acae8319/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/.android/build-cache/dc825b3adf57bafc160ee1be665cd5aff25b40be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb2ef781533c3f11c4e80341cbaebad275c66586">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4efafd3985c97bb5321ab61373567c63c9be003d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/.android/build-cache/282b8f6f8bbe49e80aeae07ab871ae107ed051c1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_754b861d4197e2dccbb81cb7acd3c25bd1cc6866/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/.android/build-cache/19b62f6960c26f12e1219f0b61856f5f80e06a39/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_feb46cf6234b780cecefb51c7278eda9772fd6fc/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -102,33 +183,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/amrizalns/.android/build-cache/421e3efd80b236670a861767710197dee0080759/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
-        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ac6f99ee10680dd17d1133b61b299fb17b277bd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/amrizalns/.android/build-cache/c551c619266affb8247b0524c8b9f9dd721230f3/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
-        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b176635a1fec42e81415e7fb2f0d74da5c85a5a9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/amrizalns/.android/build-cache/0379fa5d05d518c68c6456d39031fa3906db57a0/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ddd7afc97cb5c80975803be4269e53163167755a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/amrizalns/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
         jumboMode="true"
         optimize="true"
@@ -138,12 +192,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/amrizalns/.android/build-cache/60d5d70db78b97a8be79e6b511df2dca507747ff/output/jars/classes.jar"
+        jar="/Users/amrizalns/.android/build-cache/9a38c652740ff0184b19775b81a7c1accca7f875/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_154b3c75bebf8b7dd386401ce208fe37aac01e42/classes.dex" />
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce3524cb7874e6c92553b193c350b75fa2930803/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amrizalns/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/amrizalns/Documents/Backind.com/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_0d4e48df51d0584d5518cf950eebc1547062a3ba/classes.dex" />
     </item>
 
 </items>
