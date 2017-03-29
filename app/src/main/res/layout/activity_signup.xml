@@ -37,8 +37,14 @@
             android:id="@+id/email_login_form"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+<<<<<<< HEAD
             android:paddingTop="30dp"
             android:orientation="vertical">
+=======
+            android:orientation="vertical"
+            android:paddingTop="30dp"/>
+
+>>>>>>> origin/master
 
             <ImageView
                 android:layout_marginTop="@dimen/activity_vertical_margin"
@@ -113,8 +119,18 @@
                 android:layout_marginRight="50dp"
                 />
 
-            <Button
-                android:id="@+id/facebook"
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/info"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:textSize="18sp"
+            />
+
+
+            <com.facebook.login.widget.LoginButton
+                android:id="@+id/login_button"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginLeft="50dp"
@@ -171,7 +187,10 @@
                     android:textSize="16sp"
                     android:textColor="@color/gplus"
                     />
+<<<<<<< HEAD
             </LinearLayout>
+=======
+>>>>>>> origin/master
 
         </LinearLayout>
     </ScrollView>

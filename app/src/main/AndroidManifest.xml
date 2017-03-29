@@ -36,9 +36,11 @@
 
         </activity>
 
+
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
             android:value="@string/facebook_app_id" />
+<<<<<<< HEAD
         //coba commit tania
         <activity android:name=".Fragment_homestay"></activity>
         <activity
@@ -46,6 +48,16 @@
             android:theme="@style/Theme.AppCompat.NoActionBar">
 
         </activity>
+=======
+
+
+        <activity android:name=".HomeStayActivity"></activity>
+        <activity
+            android:name=".main_interface"
+            android:label="@string/title_activity_main_interface"
+            android:theme="@style/Theme.AppCompat.NoActionBar"></activity>
+
+>>>>>>> origin/master
     </application>
 
 </manifest>
