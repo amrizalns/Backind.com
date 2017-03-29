@@ -1,8 +1,10 @@
 package com.example.amrizalns.backind;
 
+
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
 import android.annotation.TargetApi;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.support.annotation.NonNull;
 import android.support.design.widget.Snackbar;
@@ -33,7 +35,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import static android.Manifest.permission.READ_CONTACTS;
-import com.facebook.FacebookSdk;
 
 /**
  * A login screen that offers login via email/password.
@@ -62,6 +63,7 @@ public class SignUpActivity extends AppCompatActivity implements LoaderCallbacks
     private EditText mPasswordView;
     private View mProgressView;
     private View mLoginFormView;
+    private TextView signin;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -83,6 +85,9 @@ public class SignUpActivity extends AppCompatActivity implements LoaderCallbacks
             }
         });
 
+        signin = (TextView)findViewById(R.id.account_log);
+
+
         Button mEmailSignInButton = (Button) findViewById(R.id.email_sign_in_button);
         mEmailSignInButton.setOnClickListener(new OnClickListener() {
             @Override
@@ -91,9 +96,14 @@ public class SignUpActivity extends AppCompatActivity implements LoaderCallbacks
             }
         });
 
-        mLoginFormView = findViewById(R.id.login_form);
-        mProgressView = findViewById(R.id.login_progress);
+        mLoginFormView = findViewById(R.id.login_form_signup);
+        mProgressView = findViewById(R.id.login_progress_signup);
     }
+    public void onClick(View view){
+        Intent intent = new Intent(SignUpActivity.this,SignInActivity.class);
+        startActivity(intent);
+    }
+
 
     private void populateAutoComplete() {
         if (!mayRequestContacts()) {
@@ -347,5 +357,6 @@ public class SignUpActivity extends AppCompatActivity implements LoaderCallbacks
             showProgress(false);
         }
     }
+
 }
 

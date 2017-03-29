@@ -3,6 +3,7 @@ package com.example.amrizalns.backind;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.support.v4.app.Fragment;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -77,14 +78,15 @@ public class main_interface extends AppCompatActivity
     @SuppressWarnings("StatementWithEmptyBody")
     @Override
     public boolean onNavigationItemSelected(MenuItem item) {
-        // Handle navigation view item clicks here.
+
+        Fragment f = null;
         int id = item.getItemId();
 
-        if (id == R.id.nav_camera) {
-            // Handle the camera action
-        } else if (id == R.id.nav_gallery) {
-
-        } else if (id == R.id.nav_slideshow) {
+        if (id == R.id.home) {
+            f = new Fragment_home();
+        } else if (id == R.id.homestay) {
+            f = new Fragment_homestay();
+        } else if (id == R.id.tmpwisata) {
 
         } else if (id == R.id.nav_manage) {
 

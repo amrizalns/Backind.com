@@ -6,5 +6,6 @@
     <color name="fb">#4D6FA9</color>
     <color name="gplus">#DD4B39</color>
     <color name="button">#FFFFFF</color>
+    <color name="content">#000000</color>
 
 </resources>
