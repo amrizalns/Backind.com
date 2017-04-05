@@ -31,6 +31,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.google.android.gms.auth.api.Auth;
+import com.google.android.gms.common.api.GoogleApiClient;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -63,6 +66,7 @@ public class SignUpActivity extends AppCompatActivity implements LoaderCallbacks
     private EditText mPasswordView;
     private View mProgressView;
     private View mLoginFormView;
+    private Button loginGplus;
     private TextView signin;
 
     @Override
@@ -85,7 +89,7 @@ public class SignUpActivity extends AppCompatActivity implements LoaderCallbacks
             }
         });
 
-        signin = (TextView)findViewById(R.id.account_log);
+        signin = (TextView) findViewById(R.id.account_log);
 
 
         Button mEmailSignInButton = (Button) findViewById(R.id.email_sign_in_button);
@@ -98,9 +102,22 @@ public class SignUpActivity extends AppCompatActivity implements LoaderCallbacks
 
         mLoginFormView = findViewById(R.id.login_form_signup);
         mProgressView = findViewById(R.id.login_progress_signup);
+        //loginGplus = findViewById(R.id.gplus).setOnClickListener(this);
+        // Configure sign-in to request the user's ID, email address, and basic
+        // profile. ID and basic profile are included in DEFAULT_SIGN_IN.
+        //GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
+               // .requestEmail()
+               // .build();
+        // Build a GoogleApiClient with access to GoogleSignIn.API and the options above.
+       // mGoogleApiClient = new GoogleApiClient.Builder(this)
+               // .enableAutoManage(this, this)
+               // .addApi(Auth.GOOGLE_SIGN_IN_API, gso)
+               // .build();
+
     }
-    public void onClick(View view){
-        Intent intent = new Intent(SignUpActivity.this,SignInActivity.class);
+
+    public void onClick(View view) {
+        Intent intent = new Intent(SignUpActivity.this, SignInActivity.class);
         startActivity(intent);
     }
 
@@ -337,6 +354,7 @@ public class SignUpActivity extends AppCompatActivity implements LoaderCallbacks
             // TODO: register the new account here.
             return true;
         }
+
 
         @Override
         protected void onPostExecute(final Boolean success) {
