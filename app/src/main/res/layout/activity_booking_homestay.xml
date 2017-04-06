@@ -17,7 +17,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/judul"
-        android:gravity="center"
+        android:layout_gravity="center_horizontal"
         android:text="Booking HomeStay"
         android:textSize="30sp"
         android:textColor="@color/colorPrimary"
