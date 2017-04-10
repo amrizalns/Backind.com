@@ -8,6 +8,14 @@
     <uses-permission android:name="android.permission.READ_CONTACTS" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="22" />
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="22" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
         android:allowBackup="true"
@@ -33,15 +41,16 @@
         <activity android:name=".SignInActivity">
 
         </activity>
-        <activity android:name=".Fragment_tempatWisata">
-
+        <!--<activity android:name=".Fragment_tempatWisata">
         </activity>
 
+        <activity android:name=".Fragment_homestay">
+        </activity>-->
 
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
             android:value="@string/facebook_app_id" />
-        <activity android:name=".Fragment_homestay"></activity>
+
         <activity
             android:name=".main_interface"
             android:theme="@style/Theme.AppCompat.NoActionBar">
@@ -52,6 +61,14 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
+
+        <meta-data android:name="com.google.android.gms.version"
+                   android:value="@integer/google_play_services_version" />
+
+        <meta-data android:name="com.google.android.maps.v2.API_KEY"
+                   android:value="AIzaSyBneEpQyiuMOBTd2e_GpRwvGKkinDqsi5I">
+        </meta-data>
+
     </application>
 
 </manifest>
