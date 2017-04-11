@@ -95,8 +95,8 @@ public class main_interface extends AppCompatActivity
             f = new Fragment_homestay();
         } else if (id == R.id.tmpwisata) {
             f = new Fragment_tempatWisata();
-        } else if (id == R.id.nav_manage) {
-
+        } else if (id == R.id.maps) {
+            f = new Fragment_maps();
         } else if (id == R.id.nav_share) {
 
         } else if (id == R.id.nav_send) {
