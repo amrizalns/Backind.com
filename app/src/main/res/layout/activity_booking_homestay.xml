@@ -14,12 +14,119 @@
     >
 
     <TextView
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:gravity="center"
-    android:text="Booking HomeStay"
-    android:textSize="32sp"
-    android:textColor="@android:color/holo_blue_dark"
-    />
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/judul"
+        android:layout_gravity="center_horizontal"
+        android:text="Booking HomeStay"
+        android:textSize="30sp"
+        android:textColor="@color/colorPrimary"
+        android:layout_centerHorizontal="true"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nama Lengkap : "
+        android:textSize="22sp"
+        android:id="@+id/nama"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/judul"
+        />
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:id="@+id/textnama"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/nama"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tanggal Check In : "
+        android:textSize="22sp"
+        android:id="@+id/chekin"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textnama"
+        />
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:id="@+id/textcheckin"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/chekin"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tanggal Check Out : "
+        android:textSize="22sp"
+        android:id="@+id/chekout"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textcheckin"
+        />
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:id="@+id/textcheckout"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/chekout"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jumlah Tamu  : "
+        android:textSize="22sp"
+        android:id="@+id/tamu"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textcheckout"
+        />
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:id="@+id/texttamu"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/tamu"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jumlah Kamar "
+        android:textSize="22sp"
+        android:id="@+id/kamar"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/texttamu"
+        />
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:id="@+id/textkamar"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/kamar"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/back"
+        android:textSize="24sp"
+        android:text="Back"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_below="@+id/textkamar"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/booking"
+        android:text="Booking"
+        android:textSize="24sp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/back"
+        />
 
 </LinearLayout>

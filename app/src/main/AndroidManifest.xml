@@ -38,7 +38,9 @@
         </activity>
 
 
-        
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
         <activity android:name=".Fragment_homestay"></activity>
         <activity
             android:name=".main_interface"
