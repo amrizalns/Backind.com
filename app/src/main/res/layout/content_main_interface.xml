@@ -11,21 +11,10 @@
     tools:showIn="@layout/app_bar_main_interface"
     android:background="@drawable/gradient_color"
     >
-    <ImageView
-        android:layout_marginTop="@dimen/activity_vertical_margin"
-        android:id="@+id/icon"
+    <FrameLayout
+        android:id="@+id/main_container"
         android:layout_width="match_parent"
-        android:layout_height="100dp"
-        android:layout_gravity="center"
-        app:srcCompat="@drawable/ic_backind" />
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/icon"
-        android:layout_marginTop="15dp"
-        android:text="Welcome to Backin Mobile Application"
-        android:gravity="center"
-        android:textSize="16sp"
-        android:textColor="@color/content"
-        />
+        android:layout_height="match_parent">
+
+    </FrameLayout>
 </RelativeLayout>
