@@ -40,7 +40,7 @@ public class Fragment_maps extends android.support.v4.app.Fragment implements On
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.fragment_menu_maps, container, false);
+        View view = inflater.inflate(R.layout.fragment_dashboard, container, false);
 
         FragmentManager fragmentManager = getActivity().getSupportFragmentManager();
         return view;

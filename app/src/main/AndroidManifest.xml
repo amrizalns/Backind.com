@@ -10,6 +10,7 @@
     <uses-permission android:name="android.permission.READ_CONTACTS" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
 
     <application
         android:allowBackup="true"
@@ -24,32 +25,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".SignUpActivity"
-            android:label="@string/title_activity_login">
-
-        </activity>
-        <activity android:name=".SignInActivity">
-
-        </activity>
-        <activity android:name=".Fragment_tempatWisata">
-
-        </activity>
-
-
-
-        <activity android:name=".Fragment_homestay"></activity>
+        <activity android:name=".SignInActivity" />
         <activity
             android:name=".main_interface"
-            android:theme="@style/Theme.AppCompat.NoActionBar">
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
 
-        </activity>
-
-        <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDeXmfScOVUVVIjszWDCiMxckA4oZrXxnI"/>
-        <!--<meta-data-->
-            <!--android:name="com.google.android.gms.version"-->
-            <!--android:value="@integer/google_play_services_version" />-->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyDeXmfScOVUVVIjszWDCiMxckA4oZrXxnI" />
+        <!-- <meta-data -->
+        <!-- android:name="com.google.android.gms.version" -->
+        <!-- android:value="@integer/google_play_services_version" /> -->
+        <activity android:name=".Fragment_cs" />
     </application>
 
 </manifest>

@@ -21,7 +21,7 @@
         <ImageView
             android:id="@+id/icon"
             android:layout_width="match_parent"
-            android:layout_height="170dp"
+            android:layout_height="wrap_content"
             app:srcCompat="@drawable/ic_backind" />
     </RelativeLayout>
 
@@ -35,10 +35,10 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Copyright@2017"
-            android:textSize="8pt"
+            android:text="Copyright © 2017 All Rights Reserved"
+            android:textSize="12sp"
             android:gravity="center"
-            android:textColor="#000000"
+            android:textColor="#464646"
             />
 
     </RelativeLayout>

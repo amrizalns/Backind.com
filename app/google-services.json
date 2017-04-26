@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "433813853015",
+    "firebase_url": "https://backindcom.firebaseio.com",
+    "project_id": "backindcom",
+    "storage_bucket": "backindcom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433813853015:android:bf538c8557520daf",
+        "android_client_info": {
+          "package_name": "com.example.amrizalns.backind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433813853015-igl46tc8vvdbaj3emedtgn6ak387s2u6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amrizalns.backind",
+            "certificate_hash": "a23d7a4c20a77d1cb7e85b0589117f814cc28e1b"
+          }
+        },
+        {
+          "client_id": "433813853015-mtfb9n507g8phe1cf9s9gphpil33ta55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDja-P54_j8MlpNe83tUQ_P66th7-xtzW8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433813853015-mtfb9n507g8phe1cf9s9gphpil33ta55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
