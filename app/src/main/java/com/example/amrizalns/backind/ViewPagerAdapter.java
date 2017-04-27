@@ -20,7 +20,7 @@ public class ViewPagerAdapter extends PagerAdapter {
 
     private Context context;
     private LayoutInflater layoutInflater;
-    private Integer[] img = {R.drawable.ic_banner_3, R.drawable.ic_banner_1, R.drawable.ic_banner_2};
+    private Integer[] img = {R.drawable.banner_hotel1, R.drawable.banner_hotel1};
 
     public ViewPagerAdapter(Context context) {
         this.context = context;
@@ -39,9 +39,9 @@ public class ViewPagerAdapter extends PagerAdapter {
     @Override
     public Object instantiateItem(ViewGroup container, int position) {
         layoutInflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-        View view = layoutInflater.inflate(R.layout.fragment_dashboard, null);
+        View view = layoutInflater.inflate(R.layout.fragment_menu_hotel, null);
 
-        ImageView imageView = (ImageView) view.findViewById(R.id.imageView);
+        ImageView imageView = (ImageView) view.findViewById(R.id.img_vp_hotel);
         imageView.setImageResource(img[position]);
 
         ViewPager vp = (ViewPager) container;

@@ -57,24 +57,22 @@ public class Fragment_dashboard extends Fragment implements OnMapReadyCallback, 
 //        Timer timer = new Timer();
 //        timer.scheduleAtFixedRate(new myTimerTask(), 4000, 5000);
         ImageView imageView = (ImageView) view.findViewById(R.id.menu_hotel);
-
         imageView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-//                Fragment_homestay homestay = new Fragment_homestay();
-//                FragmentManager fragmentManager = getFragmentManager();
-//                FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
-//                fragmentTransaction.replace(R.id.main_container,homestay);
-//                fragmentTransaction.commit();
+                Fragment_hotel hotel = new Fragment_hotel();
+                FragmentManager fragmentManager = getFragmentManager();
+                FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
+                fragmentTransaction.replace(R.id.main_container,hotel);
+                fragmentTransaction.commit();
 
-                Toast.makeText(getContext(), "Clicked ", Toast.LENGTH_LONG).show();
+//                Toast.makeText(getContext(), "Clicked ", Toast.LENGTH_LONG).show();
 
             }
         });
 
 
         Button btnComment = (Button) view.findViewById(R.id.btn_comment);
-
         btnComment.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

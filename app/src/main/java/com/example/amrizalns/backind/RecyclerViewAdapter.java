@@ -1,6 +1,7 @@
 package com.example.amrizalns.backind;
 
 import android.content.Context;
+import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -29,10 +30,24 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewHolder
     }
 
     @Override
-    public void onBindViewHolder(RecyclerViewHolders holder, int position) {
+    public void onBindViewHolder(RecyclerViewHolders holder, final int position) {
         holder.loc.setText(itemList.get(position).getLocation());
-        holder.desc.setText(itemList.get(position).getName());
+        holder.name.setText(itemList.get(position).getName());
         holder.img.setImageResource(itemList.get(position).getImg());
+        holder.desc.setText(itemList.get(position).getDesc());
+
+        holder.relativeLayout.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(context, detail_hotel.class);
+                i.putExtra("img", itemList.get(position).getImg());
+                i.putExtra("loc", itemList.get(position).getLocation());
+                i.putExtra("name", itemList.get(position).getName());
+                i.putExtra("desc", itemList.get(position).getDesc());
+
+                context.startActivity(i);
+            }
+        });
     }
 
     @Override
