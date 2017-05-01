@@ -203,6 +203,7 @@
                     android:layout_height="wrap_content"
                     android:src="@drawable/menu_food"
                     android:layout_gravity="center"
+                    android:id="@+id/menu_foods"
                     />
                 <LinearLayout
                     android:layout_width="wrap_content"

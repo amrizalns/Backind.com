@@ -1,18 +1,20 @@
-package com.example.amrizalns.backind;
+package com.example.amrizalns.backind.fragments;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v4.view.ViewPager;
 import android.support.v7.widget.GridLayoutManager;
-import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.GridLayout;
-import android.widget.GridView;
+
+import com.example.amrizalns.backind.ItemObject;
+import com.example.amrizalns.backind.R;
+import com.example.amrizalns.backind.RecyclerViewAdapter;
+import com.example.amrizalns.backind.ViewPagerAdapter;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -7,6 +7,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.example.amrizalns.backind.activity.detail_hotel;
+import com.example.amrizalns.backind.activity.detail_kuliner;
+
 import java.util.List;
 
 /**
@@ -24,7 +27,8 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewHolder
 
     @Override
     public RecyclerViewHolders onCreateViewHolder(ViewGroup parent, int viewType) {
-        View layoutView = LayoutInflater.from(parent.getContext()).inflate(R.layout.cardview_hotel, null);
+        View layoutView = LayoutInflater.from(parent.getContext()).inflate(R.layout.cardview_content, null);
+
         RecyclerViewHolders rcv = new RecyclerViewHolders(layoutView);
         return rcv;
     }

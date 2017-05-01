@@ -9,12 +9,12 @@
     android:layout_marginBottom="16dp">
 
     <RelativeLayout
-        android:id="@+id/crd_hotel"
+        android:id="@+id/crd_content"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
         <ImageView
-            android:id="@+id/hotel_img"
+            android:id="@+id/content_img"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
             android:contentDescription="@string/action_settings"
@@ -28,7 +28,7 @@
             android:layout_marginTop="5dp"
             android:layout_marginLeft="5dp"
             android:layout_marginBottom="10dp"
-            android:layout_below="@+id/hotel_img"
+            android:layout_below="@+id/content_img"
             android:orientation="horizontal"
             android:gravity="center"
 
@@ -42,7 +42,7 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_below="@+id/hotel_img"
+                    android:layout_below="@+id/content_img"
                     android:src="@drawable/ic_placeholder"
                     />
             </LinearLayout>
@@ -53,16 +53,16 @@
 
                 >
                 <TextView
-                    android:id="@+id/hotel_name"
+                    android:id="@+id/content_name"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:textSize="12sp"
-                    android:text="Hotel"
+                    android:text="Konten"
                     android:textColor="#000000"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/hotel_loc"
+                    android:id="@+id/content_loc"
                     android:text="Location"
                     android:textSize="10sp"
                     android:textColor="#000000"
@@ -76,7 +76,7 @@
             android:layout_below="@id/loc_name"
             android:layout_width="1dp"
             android:layout_height="1dp"
-            android:id="@+id/hotel_desc"
+            android:id="@+id/content_desc"
             android:text="Desc"
             android:textColor="#000000"
             />

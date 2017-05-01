@@ -1,4 +1,4 @@
-package com.example.amrizalns.backind;
+package com.example.amrizalns.backind.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -10,6 +10,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.example.amrizalns.backind.R;
 import com.example.amrizalns.backind.models.User;
 import com.example.amrizalns.backind.viewholder.BaseActivity;
 import com.google.android.gms.tasks.OnCompleteListener;

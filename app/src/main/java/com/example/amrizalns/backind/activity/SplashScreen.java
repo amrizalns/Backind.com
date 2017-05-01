@@ -1,8 +1,10 @@
-package com.example.amrizalns.backind;
+package com.example.amrizalns.backind.activity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.amrizalns.backind.R;
 
 public class SplashScreen extends AppCompatActivity {
 

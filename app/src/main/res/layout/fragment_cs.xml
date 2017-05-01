@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/gradient_color"
-    tools:context="com.example.amrizalns.backind.Fragment_cs"
+    tools:context="com.example.amrizalns.backind.fragments.Fragment_cs"
     android:gravity="center"
     >
 

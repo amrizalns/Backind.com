@@ -11,7 +11,7 @@ public class ItemObject {
     private int img;
     private String desc;
 
-    public ItemObject(String Location , String name, String desc, int img) {
+    public ItemObject(String Location, String name, String desc, int img) {
         this.location = Location;
         this.name = name;
         this.desc = desc;
@@ -49,4 +49,5 @@ public class ItemObject {
     public void setImg(int img) {
         this.img = img;
     }
+
 }

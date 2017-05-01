@@ -1,4 +1,4 @@
-package com.example.amrizalns.backind;
+package com.example.amrizalns.backind.fragments;
 
 import android.Manifest;
 import android.content.Context;
@@ -23,8 +23,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ImageView;
-import android.widget.Toast;
 
+import com.example.amrizalns.backind.R;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.maps.GoogleMap;
@@ -56,11 +56,26 @@ public class Fragment_dashboard extends Fragment implements OnMapReadyCallback, 
 //
 //        Timer timer = new Timer();
 //        timer.scheduleAtFixedRate(new myTimerTask(), 4000, 5000);
-        ImageView imageView = (ImageView) view.findViewById(R.id.menu_hotel);
-        imageView.setOnClickListener(new View.OnClickListener() {
+        ImageView imageViewHotel = (ImageView) view.findViewById(R.id.menu_hotel);
+        imageViewHotel.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Fragment_hotel hotel = new Fragment_hotel();
+                FragmentManager fragmentManager = getFragmentManager();
+                FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
+                fragmentTransaction.replace(R.id.main_container,hotel);
+                fragmentTransaction.commit();
+
+//                Toast.makeText(getContext(), "Clicked ", Toast.LENGTH_LONG).show();
+
+            }
+        });
+
+        ImageView imageViewKuliner = (ImageView) view.findViewById(R.id.menu_foods);
+        imageViewKuliner.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Fragment_kuliner hotel = new Fragment_kuliner();
                 FragmentManager fragmentManager = getFragmentManager();
                 FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
                 fragmentTransaction.replace(R.id.main_container,hotel);

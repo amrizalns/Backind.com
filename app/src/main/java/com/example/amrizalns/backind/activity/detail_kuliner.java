@@ -1,24 +1,31 @@
-package com.example.amrizalns.backind;
+package com.example.amrizalns.backind.activity;
 
 import android.content.Intent;
-import android.graphics.drawable.Drawable;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.annotation.Nullable;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-public class detail_hotel extends AppCompatActivity {
+import com.example.amrizalns.backind.R;
+
+/**
+ * Created by amrizalns on 4/29/17.
+ */
+
+public class detail_kuliner extends AppCompatActivity {
     ImageView img;
     TextView name,loc, desc;
 
-    String img_detail;
+    int img_detail;
     String name_detail;
     String loc_detail;
     String desc_detail;
+
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_detail_hotel);
+        setContentView(R.layout.activity_detail_content);
 
         img = (ImageView) findViewById(R.id.detail_img);
         name = (TextView) findViewById(R.id.detail_name);
@@ -26,8 +33,8 @@ public class detail_hotel extends AppCompatActivity {
         desc = (TextView) findViewById(R.id.detail_desc);
 
         Intent i = getIntent();
-        img_detail = i.getStringExtra("img");
-//        img.setImageResource(Integer.parseInt(img_detail));
+        img_detail = i.getIntExtra("img",0);
+        img.setImageResource(img_detail);
 
         name_detail = i.getStringExtra("name");
         name.setText(name_detail);

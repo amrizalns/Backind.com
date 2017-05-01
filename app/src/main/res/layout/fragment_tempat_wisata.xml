@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/gradient_color"
     android:gravity="center"
-    tools:context="com.example.amrizalns.backind.Fragment_tempatWisata">
+    tools:context="com.example.amrizalns.backind.fragments.Fragment_tempatWisata">
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

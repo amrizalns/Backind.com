@@ -21,13 +21,14 @@ public class RecyclerViewHolders extends RecyclerView.ViewHolder implements View
 
     public RecyclerViewHolders(View itemView) {
         super(itemView);
-        relativeLayout = (RelativeLayout) itemView.findViewById(R.id.crd_hotel);
+        relativeLayout = (RelativeLayout) itemView.findViewById(R.id.crd_content);
 
         itemView.setOnClickListener(this);
-        loc = (TextView)itemView.findViewById(R.id.hotel_loc);
-        name = (TextView) itemView.findViewById(R.id.hotel_name);
-        img = (ImageView)itemView.findViewById(R.id.hotel_img);
-        desc = (TextView) itemView.findViewById(R.id.hotel_desc);
+        loc = (TextView)itemView.findViewById(R.id.content_loc);
+        name = (TextView) itemView.findViewById(R.id.content_name);
+        img = (ImageView)itemView.findViewById(R.id.content_img);
+        desc = (TextView) itemView.findViewById(R.id.content_desc);
+
     }
 
     @Override
