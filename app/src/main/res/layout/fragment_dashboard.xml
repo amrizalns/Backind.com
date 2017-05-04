@@ -113,6 +113,7 @@
                     android:layout_height="wrap_content"
                     android:src="@drawable/menu_activities"
                     android:layout_gravity="center"
+                    android:id="@+id/menu_wisata"
                     />
                 <LinearLayout
                     android:layout_width="wrap_content"
@@ -122,7 +123,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Activities"
+                        android:text="Tourism"
                         android:textColor="#FFFFFF"
                         android:textSize="14sp"
                         android:textStyle="bold"
@@ -176,6 +177,7 @@
                     android:layout_height="wrap_content"
                     android:src="@drawable/menu_attraction"
                     android:layout_gravity="center"
+                    android:id="@+id/menu_attraction"
                     />
                 <LinearLayout
                     android:layout_width="wrap_content"

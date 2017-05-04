@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.amrizalns.backind.activity.detail_hotel"
+    tools:context="com.example.amrizalns.backind.activity.detail_content"
     android:background="@drawable/gradient_color"
     android:layout_gravity="center"
     >

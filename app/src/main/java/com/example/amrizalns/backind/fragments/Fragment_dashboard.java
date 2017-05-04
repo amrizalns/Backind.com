@@ -56,6 +56,36 @@ public class Fragment_dashboard extends Fragment implements OnMapReadyCallback, 
 //
 //        Timer timer = new Timer();
 //        timer.scheduleAtFixedRate(new myTimerTask(), 4000, 5000);
+        ImageView imageViewWisata = (ImageView) view.findViewById(R.id.menu_wisata);
+        imageViewWisata.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Fragment_wisata wisata = new Fragment_wisata();
+                FragmentManager fragmentManager = getFragmentManager();
+                FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
+                fragmentTransaction.replace(R.id.main_container,wisata);
+                fragmentTransaction.commit();
+
+//                Toast.makeText(getContext(), "Clicked ", Toast.LENGTH_LONG).show();
+
+            }
+        });
+
+        ImageView imageViewAtrr = (ImageView) view.findViewById(R.id.menu_attraction);
+        imageViewAtrr.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Fragment_attraction atrr = new Fragment_attraction();
+                FragmentManager fragmentManager = getFragmentManager();
+                FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
+                fragmentTransaction.replace(R.id.main_container,atrr);
+                fragmentTransaction.commit();
+
+//                Toast.makeText(getContext(), "Clicked ", Toast.LENGTH_LONG).show();
+
+            }
+        });
+
         ImageView imageViewHotel = (ImageView) view.findViewById(R.id.menu_hotel);
         imageViewHotel.setOnClickListener(new View.OnClickListener() {
             @Override

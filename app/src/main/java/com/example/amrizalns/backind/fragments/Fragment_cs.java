@@ -40,7 +40,7 @@ public class Fragment_cs extends Fragment {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
                         Intent i = new Intent(Intent.ACTION_CALL);
-                        i.setData(Uri.parse("tel:123"));
+                        i.setData(Uri.parse("tel:081223926651")); //nommer bu tien
                         startActivity(i);
                     }
                 });

@@ -3,7 +3,6 @@ package com.example.amrizalns.backind.activity;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
-import android.preference.DialogPreference;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentTransaction;
 import android.support.design.widget.NavigationView;
@@ -17,9 +16,10 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.example.amrizalns.backind.R;
+import com.example.amrizalns.backind.fragments.Fragment_attraction;
 import com.example.amrizalns.backind.fragments.Fragment_dashboard;
 import com.example.amrizalns.backind.fragments.Fragment_hotel;
-import com.example.amrizalns.backind.fragments.Fragment_tempatWisata;
+import com.example.amrizalns.backind.fragments.Fragment_wisata;
 import com.google.firebase.auth.FirebaseAuth;
 
 public class main_interface extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener{
@@ -123,11 +123,12 @@ public class main_interface extends AppCompatActivity implements NavigationView.
         } else if (id == R.id.homestay) {
             f = new Fragment_hotel();
         } else if (id == R.id.tmpwisata) {
-            f = new Fragment_tempatWisata();
+            f = new Fragment_wisata();
+        }
+        else if (id == R.id.attraction) {
+            f = new Fragment_attraction();
         } else if (id == R.id.maps) {
 //            f = new Fragment_maps();
-        } else if (id == R.id.nav_share) {
-
         } else if (id == R.id.action_logout) {
                     FirebaseAuth.getInstance().signOut();
                     startActivity(new Intent(this, SignInActivity.class));

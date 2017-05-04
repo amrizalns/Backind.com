@@ -7,8 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.amrizalns.backind.activity.detail_hotel;
-import com.example.amrizalns.backind.activity.detail_kuliner;
+import com.example.amrizalns.backind.activity.detail_content;
 
 import java.util.List;
 
@@ -43,7 +42,7 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewHolder
         holder.relativeLayout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(context, detail_hotel.class);
+                Intent i = new Intent(context, detail_content.class);
                 i.putExtra("img", itemList.get(position).getImg());
                 i.putExtra("loc", itemList.get(position).getLocation());
                 i.putExtra("name", itemList.get(position).getName());
